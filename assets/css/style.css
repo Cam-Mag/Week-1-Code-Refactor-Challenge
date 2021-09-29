@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/*HEADER STYLE */
 
 .header {
     padding: 20px;
@@ -45,11 +46,12 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/* END HEADER STYLE */
 
 p {
     font-size: 16px;
 }
-
+/* HERO SECTION STYLE*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +60,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*END HERO SECTION STYLE*/
 
+/* UTILITY SECTION STYE*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +72,17 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*END UTILITY SECTION STYLE*/
 
+/*CONTENT SECTION STYLE*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/*END CONTENT SECTION STYLE*/
 
+/*BENEFITS SECTION STYLE*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +141,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*END BENEFITS SECTION STYLE*/
 
+/* IMAGE UTILITY SECTION STYLE*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +197,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*END IMAGE UTILITY SECTION STYLE*/
 
+/*FOOTER SECTION STYLE*/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +210,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*END FOOTER SECTION STYLE*/
